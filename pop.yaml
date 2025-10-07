@@ -1,0 +1,5 @@
+data_path: "data.txt"
+labels_path: "labels.txt"
+analysis:
+  enable_distribution_analysis: true
+  enable_confidence_analysis: true
